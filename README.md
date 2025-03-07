@@ -1,8 +1,20 @@
-# React + Vite
+# Movie app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Through my journey of learning React this was my first application with a back end technologies , also applied but not extensively , below where the technologies used to achieve the idea :
 
-Currently, two official plugins are available:
+- React and tailwind for front-end
+- Appwrite for backend , to optimize the search functionality and update the trending movies on the app itself .
+- Used TMDB API for fetching the movies , just in case you want to examine it for yourself , below is the link
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  - TMDB link :
+    ```bash
+    https://developer.themoviedb.org/docs
+    ```
+
+As always you can use the app to showcase your skills , or if you want to use for other purposes . please you can go ahead and fork it .
+
+For more detaisl
+
+- Email : alecbideri@gmail.com
+
+- Link to the movie app : https://movie-app-cool.netlify.app/
